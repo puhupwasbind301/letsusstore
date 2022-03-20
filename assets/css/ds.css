@@ -1,0 +1,187 @@
+.ds-h2 {
+    font-family: system-ui;
+    font-size: 2.6rem;
+    font-weight: lighter;
+    padding-top: 2rem;
+    padding-bottom: .6rem;
+}
+.ds-h2-sub {
+    font-family: system-ui;
+    font-size: 2rem !important;
+    font-weight: lighter;
+    padding-top: 2rem;
+    padding-bottom: .6rem;
+}
+
+.ds-h2-small {
+    font-family: system-ui;
+    font-size: 1.6rem;
+    font-weight: 500;
+    padding-top: 1.3rem;
+    color: #535353;
+    font-weight: 400;
+}
+.ds-logo-width {
+    width: 217px;
+}
+.ds-main-clr {
+    color: #6a3ef3 !important;
+}
+.ds-clr-light {
+    color: #dedede;
+}
+p {
+    font-weight: lighter;
+    color: #404040;
+    font-family: system-ui;
+    font-size: 1.3rem !important;
+}
+.ds-tab-title {
+    font-family: system-ui;
+    font-size: 1.2rem;
+}
+.ds-tab-text {
+    font-family: system-ui;
+    font-size: 1rem;
+}
+.accordion-button {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.accordion-button.collapsed {
+    background-color: #fbfbfb;
+}
+.accordion-button:not(.collapsed) {
+    color: #ffffff;
+    background-color: #9667ff;
+}
+.ds-search-clr {
+    background-color: #9667ff;
+    color: #fff;
+    cursor: pointer;
+}
+.section-title {
+    text-align: center;
+    max-width: 655px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ds-footer-logo {
+    font-size: 2rem;
+    color: #f1f1f1;
+}
+.ds-footer-logo:hover {
+    color: #fff;
+}
+.ds-copy-text {
+    font-size: 1rem !important;
+}
+.ds-ptb-100 {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+.ds-p {
+    font-size: 1.1rem !important;
+}
+.ds-main-bg {
+    background-color: #6a3ef3;
+}
+.ds-main-bg:hover {
+    background-color: #6230f6 !important;
+}
+.ds-top-6 {
+    top: 6px;
+}
+.ds-h2-disclaimer {
+    font-size: 1.3rem;
+    font-family: system-ui;
+    margin-top: 2rem;
+    text-align: center;
+}
+.ds-benefits {
+    width: 60px;
+    padding-right: 1rem;
+}
+.ptb-100 {
+    padding-top: 20px !important;
+    padding-bottom: 50px !important;
+}
+.ds-h2-new {
+    font-size: 2rem !important;
+    font-family: system-ui;
+    font-weight: lighter;
+}
+
+.ds-rotate-me {
+}
+
+.ds-calc-storage {
+    position: fixed;
+    z-index: 9999;
+    right: -75px;
+    top: 55%;
+    transform: rotate(-90deg);
+}
+
+.ds-req-generate {
+    position: fixed;
+    z-index: 9999;
+    left: -75px;
+    top: 55%;
+    transform: rotate(-90deg);
+}
+@media(max-width: 700px) {
+    .ds-h2-new {
+        font-size: 1.5rem !important;
+        margin-top: 16px;
+        margin-top: 16px;
+        font-family: system-ui;
+        font-weight: lighter;
+    }
+    .ds-logo-width {
+        width: 180px;
+    }
+    .ds-tab-title {
+        font-family: system-ui;
+        font-size: 1rem;
+        text-align: left;
+    }
+    .ds-tab-text {
+        font-family: system-ui;
+        font-size: .8rem;
+        text-align: left;
+    }
+    p {
+        font-weight: lighter;
+        color: #404040;
+        font-family: system-ui;
+        font-size: 1rem !important;
+        text-align: left;
+    }
+    .single-footer-widget .newsletter-form .input-newsletter {
+        font-size: 12px !important;
+    }
+    .single-footer-widget .newsletter-form button {
+        width: 40px !important;
+    }
+    .ds-h2-sub.pt-0.text-end {
+        font-size: 21px !important;
+        text-align: left !important;
+    }
+    .ds-top-6 {
+        top: unset;
+    }
+
+   
+}
+
+
+.noke-nav .navbar .navbar-nav .nav-item a{
+    font-size: 13.5px !important;
+}
+
+.noke-nav .navbar .navbar-nav .nav-item{
+    margin-right: 17px !important;
+    margin-left: 0px !important;
+}
